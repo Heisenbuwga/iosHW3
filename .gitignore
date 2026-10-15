@@ -1,0 +1,8 @@
+.DS_Store
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+# Earlier message-list mockup screenshots
+Submission/discord-dark.png
+Submission/discord-light.png
